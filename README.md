@@ -19,7 +19,7 @@ Rsync GUI is a simple graphical user interface (GUI) application built with Go a
 1. Clone this repository or copy the source code.
 
    ```bash
-   git clone https://github.com/rgritt/rsync-gui.git
+   git clone https://github.com/rgritt/go-rsync-gui.git
    cd rsync-gui
    ```
 
