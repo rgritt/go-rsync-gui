@@ -1,6 +1,6 @@
 module go-sync-tool
 
-go 1.23.0
+go 1.23
 
 require fyne.io/fyne/v2 v2.5.4
 
