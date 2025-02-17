@@ -35,7 +35,8 @@ jobs:
     - name: Go Get
       run: 
         go get
-        go mod tidy
+    - name: Go Mod
+      run: go mod tidy
 
     - name: Build
       run: go build -v ./...
