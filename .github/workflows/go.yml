@@ -35,7 +35,6 @@ jobs:
     - name: Go Get
       run: 
         go get
-        go get fyne.io/fyne/v2
 
     - name: Build
       run: go build -v ./...
